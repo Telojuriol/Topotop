@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 0d025e4e512279046b29a09df4420616
+timeCreated: 1462916330
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Sin t\xEDtulo-1_0"
+    21300002: "Sin t\xEDtulo-1_1"
+    21300004: "Sin t\xEDtulo-1_2"
+    21300006: "Sin t\xEDtulo-1_3"
+    21300008: "Sin t\xEDtulo-1_4"
+    21300010: "Sin t\xEDtulo-1_5"
+    21300012: "Sin t\xEDtulo-1_6"
+    21300014: "Sin t\xEDtulo-1_7"
+    21300016: "Sin t\xEDtulo-1_8"
+    21300018: "Sin t\xEDtulo-1_9"
+    21300020: "Sin t\xEDtulo-1_10"
+    21300022: "Sin t\xEDtulo-1_11"
+    21300024: "Sin t\xEDtulo-1_12"
+    21300026: "Sin t\xEDtulo-1_13"
+    21300028: "Sin t\xEDtulo-1_14"
+    21300030: "Sin t\xEDtulo-1_15"
+    21300032: "Sin t\xEDtulo-1_16"
+    21300034: "Sin t\xEDtulo-1_17"
+    21300036: "Sin t\xEDtulo-1_18"
+    21300038: "Sin t\xEDtulo-1_19"
+    21300040: "Sin t\xEDtulo-1_20"
+    21300042: "Sin t\xEDtulo-1_21"
+    21300044: "Sin t\xEDtulo-1_22"
+    21300046: "Sin t\xEDtulo-1_23"
+    21300048: "Sin t\xEDtulo-1_24"
+    21300050: "Sin t\xEDtulo-1_25"
+    21300052: "Sin t\xEDtulo-1_26"
+    21300054: "Sin t\xEDtulo-1_27"
+    21300056: "Sin t\xEDtulo-1_28"
+    21300058: "Sin t\xEDtulo-1_29"
+    21300060: "Sin t\xEDtulo-1_30"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "Sin t\xEDtulo-1_0"
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 549
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_1"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 558
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_2"
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 552
+        width: 129
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_3"
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 553
+        width: 101
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_4"
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 550
+        width: 108
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_5"
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 434
+        width: 113
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_6"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 436
+        width: 101
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_7"
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 437
+        width: 103
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_8"
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 439
+        width: 111
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_9"
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 433
+        width: 120
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_10"
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 328
+        width: 116
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_11"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 320
+        width: 115
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_12"
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 328
+        width: 113
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_13"
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 327
+        width: 119
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_14"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 326
+        width: 119
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_15"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 217
+        width: 119
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_16"
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 216
+        width: 122
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_17"
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 215
+        width: 110
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_18"
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 215
+        width: 122
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_19"
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 215
+        width: 123
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_20"
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 107
+        width: 121
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_21"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 104
+        width: 118
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_22"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 108
+        width: 119
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_23"
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 111
+        width: 115
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_24"
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 114
+        width: 116
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_25"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 138
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_26"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 14
+        width: 101
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_27"
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 8
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_28"
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 11
+        width: 104
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_29"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 12
+        width: 109
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Sin t\xEDtulo-1_30"
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

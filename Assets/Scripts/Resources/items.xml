@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Userinfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tutorial>0</Tutorial>
+  <Volum>1</Volum>
+  <Money>0</Money>
+  <Record>0</Record>
+  <Millores>
+    <Millora name="Vida">
+      <Nivell>0</Nivell>
+      <Descripcio> </Descripcio>
+    </Millora>
+    <Millora name="Velocitat">
+      <Nivell>0</Nivell>
+      <Descripcio> </Descripcio>
+    </Millora>
+    <Millora name="Valor">
+      <Nivell>0</Nivell>
+      <Descripcio> </Descripcio>
+    </Millora>
+    <Millora name="ValorFuel">
+      <Nivell>0</Nivell>
+      <Descripcio> </Descripcio>
+    </Millora>
+    <Millora name="Arrancada">
+      <Nivell>0</Nivell>
+      <Descripcio> </Descripcio>
+    </Millora>
+    <Millora name="Turbo">
+      <Nivell>0</Nivell>
+      <Descripcio> </Descripcio>
+    </Millora>
+    <Millora name="Capacitat">
+      <Nivell>0</Nivell>
+      <Descripcio> </Descripcio>
+    </Millora>
+    <Millora name="Resistencia">
+      <Nivell>0</Nivell>
+      <Descripcio> </Descripcio>
+    </Millora>
+    <Millora name="Botiquin">
+      <Nivell>0</Nivell>
+      <Descripcio> </Descripcio>
+    </Millora>
+  </Millores>
+  <Logros>
+    <Logro name="Nivell1">
+      <Aconseguit>0</Aconseguit>
+    </Logro>
+    <Logro name="Nivell2">
+      <Aconseguit>0</Aconseguit>
+    </Logro>
+    <Logro name="Nivell3">
+      <Aconseguit>0</Aconseguit>
+    </Logro>
+    <Logro name="Nivell4">
+      <Aconseguit>0</Aconseguit>
+    </Logro>
+    <Logro name="Nivell5">
+      <Aconseguit>0</Aconseguit>
+    </Logro>
+    <Logro name="Nivell6">
+      <Aconseguit>0</Aconseguit>
+    </Logro>
+    <Logro name="Nivell7">
+      <Aconseguit>0</Aconseguit>
+    </Logro>
+    <Logro name="Nivell8">
+      <Aconseguit>0</Aconseguit>
+    </Logro>
+    <Logro name="Nivell9">
+      <Aconseguit>0</Aconseguit>
+    </Logro>
+    <Logro name="Nivell10">
+      <Aconseguit>0</Aconseguit>
+    </Logro>
+    <Logro name="Nivell11">
+      <Aconseguit>0</Aconseguit>
+    </Logro>
+    <Logro name="Nivell12">
+      <Aconseguit>0</Aconseguit>
+    </Logro>
+  </Logros>
+</Userinfo>

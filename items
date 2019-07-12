@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Userinfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Money>629866</Money>
+  <Millores>
+    <Millora name="Vida">
+      <Nivell>4</Nivell>
+    </Millora>
+    <Millora name="Velocitat">
+      <Nivell>4</Nivell>
+    </Millora>
+    <Millora name="Valor">
+      <Nivell>3</Nivell>
+    </Millora>
+    <Millora name="ValorFuel">
+      <Nivell>4</Nivell>
+    </Millora>
+    <Millora name="Arrancada">
+      <Nivell>4</Nivell>
+    </Millora>
+    <Millora name="Turbo">
+      <Nivell>4</Nivell>
+    </Millora>
+    <Millora name="Capacitat">
+      <Nivell>0</Nivell>
+    </Millora>
+    <Millora name="Resistencia">
+      <Nivell>0</Nivell>
+    </Millora>
+  </Millores>
+</Userinfo>
